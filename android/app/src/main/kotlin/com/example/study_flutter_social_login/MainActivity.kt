@@ -1,4 +1,4 @@
-package com.example.study_flutter_social_login
+package com.msavioti.social_login
 
 import io.flutter.embedding.android.FlutterActivity
 
