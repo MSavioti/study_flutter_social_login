@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "953645021666",
+    "project_id": "flutter-social-login-62c41",
+    "storage_bucket": "flutter-social-login-62c41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953645021666:android:95996fd94530ce1047e1bb",
+        "android_client_info": {
+          "package_name": "com.msavioti.social_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953645021666-ntu2mes3j2f897c03i1kaif1s9pi8pe7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.msavioti.social_login",
+            "certificate_hash": "51db285c353ba94e74e425c69547f99d6780d830"
+          }
+        },
+        {
+          "client_id": "953645021666-0uan4eaqccnqcmebqtim6dr9dj11gr9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzRqKSG6vGvhsas4JVje50t0dUXrvSsXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953645021666-0uan4eaqccnqcmebqtim6dr9dj11gr9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
